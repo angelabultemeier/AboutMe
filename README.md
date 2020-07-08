@@ -24,6 +24,7 @@ These are some things that are important to me in leadership. I’ve tried to cr
 * Every day is an invitation. (_Source: the book [“Love Does” by Bob Goff](https://www.goodreads.com/book/show/13497505-love-does)_)
 * Let no opportunity be too small for your time and let no opportunity be too big for your possibilities. (_Source: Jon Stewart on [episode 6 of “Some Good News”](https://youtu.be/IweS2CPSnbI)_)
 * Do the right thing, balancing our team members and the business, understanding business objectives and timing requirements alongside the right technical solutions.
+* Don't reinvent the wheel. Good leaders steal good ideas (with integrity and giving credit where credit is due).
 * Do everything with integrity.
 
 ## The Tactical
