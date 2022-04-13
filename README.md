@@ -2,8 +2,9 @@
 This is my manager README file. What is a manager README? Good question. Let's start there.
 
 ## What is this and why does it exist?
-I created this document to help people on my team understand me better so that I can be a better manager for them. I also welcome anything that you feel comfortable sharing with me that might help us work better together. 
-In addition, this document includes an outline of my expectations for me and managers who report into my organization. Please treat this document as a reference and promise on how I will conduct myself as a manager. I urge you to hold me accountable to my promises and to call out anything that might be missing from this document.
+I created this document when I led an organization of approximately 120 people (developers, TPMs, managers, and directors). Although I no longer lead a large organization, my core beliefs in how I serve in my role remain largely unchanged. . My intention with this document is to help people on my team (both peers and those that report to me) understand me better so that I can be a better manager for them and/or work better with them. And, as always, I welcome anything that you feel comfortable sharing with me that might help us work better together.
+
+In addition, this document includes an outline of my expectations for me and managers who report into my organization, specifically in the capacity of leading a tech organization. Again, although my current role has changed from when I wrote this document, many musings still apply. Please treat this document as a reference and promise on how I will conduct myself as a manager. I urge you to hold me accountable to my promises and to call out anything that might be missing from this document.
 
 ## What is my job?
 My primary job is to do everything I can to help my team be successful and to make sure their successes are known appropriately throughout EG. This includes supporting and advocating for your success. It includes ensuring that our teams are working on the right things in the right order with the right information, as well as promoting and sharing their accomplishments.  
